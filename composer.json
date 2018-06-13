@@ -1,5 +1,5 @@
 {
-    "name": "bangerkuwranger/magento2-gtid-safe-url-rewrite-tables",
+    "name": "comver/magento2-gtid-safe-url-rewrite-tables",
 	"description": "Magento 2 module that overrides the temporary table creation in catalog-url-rewrite/model/map with a permanent table to allow for GTID consistency in replicated SQL databases.",
     "type": "magento2-module",
     "version": "1.0.0",
