@@ -7,11 +7,7 @@
     "MIT"
 	],
     "require": {
-<<<<<<< HEAD
         "php": ">=5.5"
-=======
-        "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.18"
->>>>>>> 5fa79a56baa2ab6b4307eecbf5a94f70c210348f
     },
     "autoload": {
         "files": [ "registration.php" ],
